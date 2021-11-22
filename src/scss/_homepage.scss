@@ -1,0 +1,28 @@
+#app {
+    max-width: 360px;
+    max-height: 756px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+}
+
+.homepage {
+   padding-top: 20rem;
+   padding-bottom: 20rem;
+   background-color: white;
+   border: 1px solid #a7a9ac;
+}
+
+.homepage a button {
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.homepage a {
+    text-decoration: none;
+}
+
+.homepage a:hover button {
+    color:white;
+    background-color: red;
+}

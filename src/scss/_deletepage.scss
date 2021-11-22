@@ -1,0 +1,38 @@
+.deletepage {
+    height: 756px;
+}
+
+.deletepage h2 {
+    padding-top: 6rem;
+}
+
+.deleted-task {
+    text-align: center;
+    padding: 1rem;
+}
+
+.deleted-task p:first-of-type {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.button-flex {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.button-flex button {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    margin: 1rem;
+
+}
+
+.button-flex button:hover {
+    color: white;
+    border: none;
+    background-color: red;
+
+}

@@ -1,0 +1,88 @@
+.todolist {
+    margin: 1rem;
+}
+
+.todolist ul li {
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 5px solid green;
+    
+}
+
+.todolist ul li div:last-of-type p svg {
+    padding: 0 0.1rem;
+    margin: 0;
+    width: 100%;
+}
+
+.todolist ul li div:last-of-type p:last-of-type svg{
+    margin-top: 0.7rem;
+}
+
+.todolist ul li div:last-of-type {
+    display: flex;
+}
+
+.todolist ul li div:first-of-type {
+    max-width: 190px;
+}
+
+.todolist ul li:nth-of-type(2){
+    border-left: 5px solid lightskyblue;
+}
+
+.todolist ul li:nth-of-type(3) {
+    border-left: 5px solid lightsalmon;
+}
+
+.todolist ul li:nth-of-type(4) {
+    border-left: 5px solid lightseagreen;
+}
+
+.todolist ul li:nth-of-type(5) {
+    border-left: 5px solid lightpink;
+}
+
+.todolist ul li div p:first-of-type {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.todolist ul li div p:nth-of-type(2){
+    color: red;
+}
+
+
+.todolist ul li div svg:first-of-type {
+    margin-right: 1rem;
+}
+
+.todolistpage {
+    padding-bottom: 1rem;
+}
+
+.todolistpage header {
+    margin-bottom: 3rem;
+}
+
+.todolistpage > button {
+    display: block;
+    width: 90%;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+}
+
+.todolistpage > button:hover {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}

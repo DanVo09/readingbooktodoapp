@@ -1,0 +1,47 @@
+[{
+  "id": "abc23456bc",
+  "category": "Science Fiction",
+  "title": "Harry Potter",
+  "isComplete": true,
+  "startDate": "Monday Octorber 4th",
+  "startTime": "8:00am",
+  "endDate": "Monday Octorber 11th",
+  "endTime": "8:00am"
+}, {
+  "id": "abc23457dc",
+  "category": "Action and Adventure",
+  "title": "The Call of the Wild",
+  "isComplete": true,
+  "startDate": "Monday Octorber 6th",
+  "startTime": "9:00am",
+  "endDate": "Monday Octorber 13th",
+  "endTime": "9:00am"
+}, {
+  "id": "abc23423ef",
+  "category": "Comic Book",
+  "title": "The Boy, the Mole, the Fox and the Horse",
+  "isComplete": false,
+  "startDate": "Monday November 4th",
+  "startTime": "8:00am",
+  "endDate": "Monday November 11th",
+  "endTime": "8:00am"
+}, {
+  "id": "abc23459dg",
+  "category": "Fantasy",
+  "title": "The Water Dancer",
+  "isComplete": false,
+  "startDate": "Tuesday Novemver 5th",
+  "startTime": "8:00am",
+  "endDate": "Tuesday November 12th",
+  "endTime": "8:00am"
+}, {
+  "id": "abc23411df",
+  "category": "Historical Fiction",
+  "title": "The Help",
+  "isComplete": false,
+  "startDate": "Monday November 4th",
+  "startTime": "10:00am",
+  "endDate": "Monday November 11th",
+  "endTime": "10:00am"
+}]
+ 
